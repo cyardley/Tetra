@@ -1,0 +1,27 @@
+Version 1.0
+-Basic game functionality and framework
+-drawing, collisions, score, etc
+
+Verison 1.1
+-Switched from SDL_gfx to SDL_SGE for low level graphics
+-refactored allot of code
+-added pausing (enter key, or when program loses keyboard focus)
+-display your score on the title page
+-collision bug fixes
+
+Version 1.2
+-Switched from using graphics primatives to using sprites
+-Sprite sheet support
+-clear line animation / delay
+
+Version 1.3
+-Functional Highscores
+-Minor interface improvements
+
+Version 1.3.5
+-Some key remapping
+-Menus and Options (escape key)
+-Difficulty setting
+
+Version 1.3.5b
+-Minor change to sprites
